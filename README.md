@@ -2,6 +2,8 @@
 
 <div align="center">
 
+![头像？](./Pictures/avatar.png)
+
 # 诸位好啊 🙌 Hi There
 
 ## 广告位
