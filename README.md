@@ -14,7 +14,10 @@
 >
 > —— \[唐\] 李白 《紫骝马》
 
+</div>
+
 > [!TIP]
+> 
 > 这里是 [MKStoler4096](https://github.com/MKStoler4096) 的个人简介。
 
 > [!WARNING]
@@ -23,11 +26,11 @@
 >
 > 出于众所周知的原因，QQ 很有可能吞掉你的消息。所以如确有要事，请直接由 [电子邮箱](mailto:qsgz2023ji5ban@edicdn.eu.org) 护盘着本仓库 Discussion 联系我！
 
+<div align="center">
+
 # 诸位好啊 🙌 Hi There
 
-## 广告位
-
-### ⭐ 广告位 - 优秀开源项目友情推荐 - [不感兴趣？](https://dxy.com/disease/26233/detail "很抱歉为你造成不好的浏览体验，点击这里以联系我们更换广告。") ⭐
+### ⭐ 广告位 - 优秀开源项目友情推荐 - [不感兴趣？](https://github.com/MKStoler4096/MKStoler4096/issues "很抱歉为你造成不好的浏览体验，点击这里以联系我们更换广告。") ⭐
 
 # <a href="https://github.com/ClassIsland/ClassIsland"><image src="https://github.com/ClassIsland/ClassIsland/raw/master/ClassIsland/Assets/AppLogo_AppLogo.svg" height="25"/> ClassIsland</a>
 
