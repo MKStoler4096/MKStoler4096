@@ -2,7 +2,26 @@
 
 <div align="center">
 
-![头像？](./Pictures/avatar.png)
+<img src="Pictures/avatar.png" width="200px">
+
+> 紫骝行且嘶，双翻碧玉蹄。
+> 
+> 临流不肯渡，似惜锦障泥。
+> 
+> 白雪关山远，黄云海戍迷。
+> 
+> 挥鞭万里去，安得念春闺。
+>
+> —— \[唐\] 李白 《紫骝马》
+
+> [!TIP]
+> 这里是 [MKStoler4096](https://github.com/MKStoler4096) 的个人简介。
+
+> [!WARNING]
+>
+> 我是随机在国内上线的，所以你可能并不能联系到我。
+>
+> 出于众所周知的原因，QQ 很有可能吞掉你的消息。所以如确有要事，请直接由 [电子邮箱](mailto:qsgz2023ji5ban@edicdn.eu.org) 护盘着本仓库 Discussion 联系我！
 
 # 诸位好啊 🙌 Hi There
 
