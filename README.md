@@ -34,18 +34,20 @@
 
 ## ⭐ 广告位 ⭐
 
-**✨ 优秀开源项目友情推荐 ✨ - [想投放自己的？](https://github.com/MKStoler4096/MKStoler4096/issues "Just Do It! ")**
+**✨ 优秀开源项目友情推荐 ✨ - [想投放自己的？](https://github.com/MKStoler4096/MKStoler4096/issues "Just Do It!")**
 
-# <a href="https://github.com/ClassIsland/ClassIsland"><image src="https://github.com/ClassIsland/ClassIsland/raw/master/ClassIsland/Assets/AppLogo_AppLogo.svg" height="25"/> ClassIsland</a>
+### <a href="https://github.com/ClassIsland/ClassIsland"><img src="https://github.com/ClassIsland/ClassIsland/raw/master/ClassIsland/Assets/AppLogo_AppLogo.svg" height="25"/> ClassIsland</a>
 
-🏫🧑‍🏫 神奇的 ClassIsland 小工具会将下课铃声和可视化提醒融为一体这不神奇吗 🧑‍🏫🏫<br>[点击链接 ClassIsland Releases 获取一个获取一个获取一个](https://github.com/ClassIsland/ClassIsland/releases)
+🏫🧑‍🏫 神奇的 ClassIsland 小工具会将下课铃声和可视化提醒融为一体这不神奇吗 🧑‍🏫🏫
+<br>
+[点击链接 ClassIsland Releases 获取一个获取一个获取一个](https://github.com/ClassIsland/ClassIsland/releases)
 
 <img src="https://github.com/user-attachments/assets/a815dd7d-8343-4da5-aee4-3f754aa297e4" alt="ClassIsland 广告位头图"><br>
 
-✨ ClassIsland 是一款专为班级大屏设计的工具，可以显示天气、倒计时、时间、上下课提醒，亦可以用即将丰富的插件做到更多复杂的功能。**它甚至可以显示课表！** ✨
+✨ ClassIsland 是一款专为班级大屏设计的工具，可以显示天气、倒计时、时间、上下课提醒，亦可以用即将丰富的插件做到更多复杂的功能。**它甚至可以通过插件实现更多功能。**
+<br>
 
-<!--markdownlint-disable-next-line MD001-->
-#### | [🌐 网站](https://classisland.tech/) | [📚 文档](https://docs.classisland.tech/zh-cn/latest/) | [💬 官方频道](https://qm.qq.com/q/4NsDQKiAuQ) | [🗳 新功能投票](https://github.com/ClassIsland/voting/discussions?discussions_q=is%3Aopen+sort%3Atop) |
+#### | [🌐 网站](https://classisland.tech/) | [📚 文档](https://docs.classisland.tech/zh-cn/latest/) | [💬 官方频道](https://qm.qq.com/q/4NsDQKiAuQ) | [🗳 新功能投票](https://github.com/ClassIsland/ClassIsland/issues) |
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/ClassIsland/ClassIsland)
 ![GitHub commits since latest release](https://img.shields.io/github/commits-since/ClassIsland/ClassIsland/latest)
@@ -79,15 +81,16 @@
 
 <br>
 
-# <a href="https://github.com/iNKORE-NET/UI.WPF.Modern"><image src="https://avatars.githubusercontent.com/u/130115968?s=200&v=4" height="25"/> iNKORE.UI.WPF.Modern</a>
+### <a href="https://github.com/iNKORE-NET/UI.WPF.Modern"><img src="https://avatars.githubusercontent.com/u/130115968?s=200&v=4" height="25"/> iNKORE.UI.WPF.Modern</a>
 
-🧰🤓神奇的 iNKORE.UI.WPF.Modern 能将 Fluent 2 的美丽界面和 WPF 的优秀兼容性融为一体这不神奇吗👆🧰<br>[点击链接 docs.inkore.net 获取一个获取一个获取一个](https://docs.inkore.net/ui-wpf-modern)
+🧰🤓神奇的 iNKORE.UI.WPF.Modern 能将 Fluent 2 的美丽界面和 WPF 的优秀兼容性融为一体这不神奇吗👆🧰
+<br>
+[点击链接 docs.inkore.net 获取一个获取一个获取一个](https://docs.inkore.net/ui-wpf-modern)
 
 <img src="https://github.com/iNKORE-NET/UI.WPF.Modern/blob/main/assets/images/banners/UI.WPF.Modern_Main_1280w.png?raw=true" alt="iNKORE.UI.WPF.Modern 广告位头图" /><br>
 
 ✨ 一个创新的 Windows Presentation Foundation (WPF) 应用程序 UI 库，旨在实现 WinUI 中的 Fluent Design 系统的时尚和现代美学。✨
 
-<!--markdownlint-disable-next-line MD001-->
 #### | [🌐 网站](https://docs.inkore.net/ui-wpf-modern) |
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/iNKORE-NET/UI.WPF.Modern)
@@ -115,17 +118,16 @@
 
 <br>
 
-# <a href="https://github.com/InkCanvas/InkCanvasForClass"><image src="https://avatars.githubusercontent.com/u/175419564?s=200&v=4" height="25"/> InkCanvasForClass (归档)</a>
+### <a href="https://github.com/InkCanvas/InkCanvasForClass"><img src="https://avatars.githubusercontent.com/u/175419564?s=200&v=4" height="25"/> InkCanvasForClass (归档)</a>
 
-🏫🤓 神奇的 InkCanvasforClass 能将 IC 系列的史山完全重构这不神奇吗 👆🏫<br>[点击链接 GitHub 获取一个获取一个获取一个](https://github.com/InkCanvas/InkCanvasForClass)
+🏫🤓 神奇的 InkCanvasforClass 能将 IC 系列的史山完全重构这不神奇吗 👆🏫
+<br>
+[点击链接 GitHub 获取一个获取一个获取一个](https://github.com/InkCanvas/InkCanvasForClass)
 
 <img src="https://github.com/InkCanvas/InkCanvasForClass/raw/master/icc-github-illustrations.png" alt="InkCanvasForClass 广告位头图"><br>
 
-<!--开发者是「福福瑞瑞富富色色变态香香软软可爱白丝小男娘」-->
+✨ 一款开源易用的电子教鞭软件，专为课堂教学场景优化设计。是 WXRIW/Ink-Canvas 和 ChangSakura/Ink-Canvas 的重生版本 *（其实已经删的不剩多少了）* （提...
 
-✨ 一款开源易用的电子教鞭软件，专为课堂教学场景优化设计。是 WXRIW/Ink-Canvas 和 ChangSakura/Ink-Canvas 的重生版本 *（其实已经删的不剩多少了）* （，提供更频繁的更新和更优雅流畅的用户界面。 ✨
-
-<!--markdownlint-disable-next-line MD001-->
 #### | [🌐 GitHub](https://github.com/InkCanvas/InkCanvasForClass) |
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/InkCanvasForClass/InkCanvasForClass)
@@ -160,7 +162,7 @@
 
 喜欢写些没啥用的小程序( •̀ ω •́ )y，大体上用的都是`Visual Basic 6.0`，少数用的是`Python`，这两个语言都是勉强能写出程序来的。
 
-额……唯一喜欢的体育运动是打羽毛球。现在在上高二，走大理。**可能是全校唯一一个电脑里除了META以外啥别的游戏都没有的人**。不吃谷，但是朋友吃。~~但是吃4090~~想捣鼓本地大模型，但是垃圾1050Ti不给面子。基本不画饼，也许能做到的坚决不立Flag。安于当下的ENTP-A。
+额……唯一喜欢的体育运动是打羽毛球。现在在上高二，走大理。**可能是全校唯一一个电脑里除了META以外啥别的游戏都没有的人**。不吃谷，但是朋友...
 
 写不出程序来（需 GPT 辅助）的但是能修改（文字）能读懂一半语言的的有：*HTML,PHP,JS,Vue,TS,C++,C,C#*
 
